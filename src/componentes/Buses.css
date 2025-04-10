@@ -1,0 +1,67 @@
+h2{
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+
+button{
+    margin-top: 1rem;
+}
+
+.contenedor{
+    margin-top: 2rem;
+    width: 60vw;
+}
+
+.contenedor-tabla{
+    margin-top: 2rem;
+    max-width: 1500px;
+}
+
+.contenedor-bus{
+    border: 2px solid #e81166;
+    background-color: #d0d1d6;
+    border-radius: 1rem;
+}
+
+.info1, .info2{
+    padding-left: 8%;
+    border-bottom: 1px solid #22221e;
+}
+
+.info1, .info2, .info3{
+    padding-top: 0.8rem;
+    padding-bottom: 0.8rem;
+}
+
+.info2{
+    background-color: #d4b9a7;
+}
+
+.info3{
+    padding-left: 8%;
+}
+
+.tabla-encabezados{
+    border: 2px solid #e81166;
+    background-color: #d4b9a7;
+}
+
+.elemento-par, .elemento-impar, .titulo-par, .titulo-impar{
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.tabla-contenidos{
+    border-left: 2px solid #e81166;
+    border-right: 2px solid #e81166;
+    border-bottom: 2px solid #e81166;
+    background-color: #d0d1d6;
+}
+
+.titulo-par{
+    background-color: #e8c9b5;
+}
+
+.elemento-par{
+    background-color: white;
+}
